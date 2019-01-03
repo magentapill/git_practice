@@ -1,0 +1,23 @@
+OSI-Modell
+https://de.wikipedia.org/wiki/OSI-Modell
+
+osi model protocols list
+https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)
+
+aircrack-ng compabilitt (wireless cards)
+https://www.aircrack-ng.org/doku.php?id=compatibility_drivers#determine_the_chipset_and_driver_of_a_wireless_card
+
+learn enough text editor to be dangerous
+http://www.learnenough.com/text-editor-tutorial
+
+learn enough git to be dangerous
+http://www.learnenough.com/git-tutorial
+
+learn computer science
+https://www.codecademy.com/learn/paths/computer-science
+
+aircrack-ng
+https://www.aircrack-ng.org/doku.php?id=Main
+
+command line
+https://www.codecademy.com/articles/command-line-commands
